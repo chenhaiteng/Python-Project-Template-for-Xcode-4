@@ -1,6 +1,7 @@
 This project try to simplify the steps to add Python to Xcode 4.
 
-Copy the Python 2 and Python 3 directories to /Developer/Library/Xcode/Templates/Project Templates/Mac/Others/ ,  then you can new a python project with Xcode.
+For Xcode 4.3 or later, copy the Python 2 and Python 3 directories to "Path/To/Xcode/Contents/Developer/Library/Xcode/Templates/Project Templates/Mac/Others/"; for 4.2 and earlier, copy to "/Developer/Library/Xcode/Templates/Project Templates/Mac/Others/", 
+then you can new a python project with Xcode.
 
 The only thing you need to configure it manually is the Scheme. You can refer the readme.txt in your new python project to done it. 
 
